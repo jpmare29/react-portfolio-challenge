@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/react-portfolio-challenge/static/js/main.7b62c5c1.js",
+    "static/media/project1.jpg": "/react-portfolio-challenge/static/media/project1.024782e2c955faaa4e0e.jpg",
+    "static/media/project2.jpg": "/react-portfolio-challenge/static/media/project2.ca169f84f944702e3f85.jpg",
+    "static/media/project3.png": "/react-portfolio-challenge/static/media/project3.2d77da5b38e745ee121c.png",
+    "static/media/profile.jpg": "/react-portfolio-challenge/static/media/profile.8080bec8cd5500306fc8.jpg",
+    "static/media/Justin_Mare_Fullstack.pdf": "/react-portfolio-challenge/static/media/Justin_Mare_Fullstack.40fe1b24cf69eff8a83d.pdf",
+    "index.html": "/react-portfolio-challenge/index.html",
+    "main.7b62c5c1.js.map": "/react-portfolio-challenge/static/js/main.7b62c5c1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7b62c5c1.js"
+  ]
+}
